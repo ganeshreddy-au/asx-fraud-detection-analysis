@@ -19,6 +19,11 @@ The goal is to see how well each model performs on a problem with a clear signal
 
 Datasets are not included in this repository due to file size. Download them directly from the links above if you want to run the notebooks yourself. For the stock dataset, only `aapl.us.txt` is needed.
 
+## How to run
+1. Download the datasets from the links above
+2. Place `creditcard.csv` and `aapl.us.txt` in the same folder as the notebooks
+3. Open `credit_card_fraud_analysis.ipynb` in Jupyter and run all cells
+
 ## Files in this repository
 
 - `credit_card_fraud_analysis.ipynb`, code and results for the Credit Card Fraud dataset
